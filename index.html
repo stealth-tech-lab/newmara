@@ -49,10 +49,11 @@
 
   <script type="application/ld+json">
   {
-    "@context":"https://schema.org",
-    "@type":"Organization",
-    "name":"Newmara",
-    "url":"https://newmara.com/",
+  "@context":"https://schema.org",
+  "@type":"Organization",
+  "name":"Newmara",
+  "url":"https://newmara.com/",
+  "sameAs":["https://linkedin.com/company/newmara"],
     "description":"Newmara buys and runs great service businesses in Volusia County and Flagler County.",
     "areaServed":[
       {
@@ -980,11 +981,14 @@
   </section>
 
   <footer class="footer">
-    <div class="container footer-inner">
-      <div>© <span id="year"></span> Newmara</div>
-      <div>Volusia County and Flagler County</div>
+  <div class="container footer-inner">
+    <div>© <span id="year"></span> Newmara</div>
+    <div>
+      Volusia County and Flagler County •
+      <a href="https://linkedin.com/company/newmara" target="_blank" rel="noopener">LinkedIn</a>
     </div>
-  </footer>
+  </div>
+</footer>
 
   <script>
     document.getElementById("year").textContent = new Date().getFullYear();
