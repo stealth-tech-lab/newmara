@@ -1,0 +1,36 @@
+NEWMARA V8 — BRANDED SEARCH / ENTITY CHECKLIST
+
+GOAL
+Help search engines distinguish "Newmara" (private investment firm) from similarly named entities such as "Newmar".
+
+WHAT V8 ADDS
+- Homepage title: Newmara | Private Investment Firm
+- Explicit first-party description of Newmara as a private investment firm
+- WebSite schema with name "Newmara" and alternateName
+- Organization schema with stable @id, logo ImageObject, LinkedIn sameAs, and relevant topics
+- 512x512 crawlable PNG brand logo
+- Conventional favicon.ico in addition to existing favicon assets
+- Consistent Open Graph site_name
+- Client Portal remains noindex and is excluded from sitemap
+- Updated public sitemap
+- IndexNow verification key file for future URL notifications
+
+AFTER DEPLOYING V8
+1. Google Search Console:
+   - Submit https://newmara.com/sitemap.xml
+   - Inspect https://newmara.com/
+   - Click Request Indexing
+   - Repeat for /about.html, /private-equity.html, /real-estate.html and /investors.html
+2. Test homepage in Google's Rich Results Test / Schema Markup Validator.
+3. Bing Webmaster Tools:
+   - Submit sitemap.xml
+   - Enable IndexNow.
+   - IndexNow key: 23280c9712c0b32007378cfd54fd33a8
+   - Key location: https://newmara.com/23280c9712c0b32007378cfd54fd33a8.txt
+4. Keep the company name exactly "Newmara" on LinkedIn and future authoritative profiles.
+5. When legitimate third-party coverage, directories, transaction announcements, interviews, or partner pages mention the firm, use the exact brand "Newmara" and link to https://newmara.com/.
+6. Do not add "not Newmar" or RV-related wording to the site. Build the Newmara entity independently.
+7. Do not change the logo URL or brand naming frequently while Google is learning the entity.
+
+IMPORTANT
+Structured data and crawler submission improve clarity/discovery but do not guarantee rankings or AI citations.

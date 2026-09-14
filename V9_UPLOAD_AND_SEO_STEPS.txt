@@ -1,0 +1,18 @@
+NEWMARA V9
+1. Upload ALL files in this folder to the existing GitHub repository and commit.
+2. Wait for Vercel deployment to show Ready.
+3. In Google Search Console submit https://newmara.com/sitemap.xml.
+4. Request indexing for:
+   /
+   /business-owners.html
+   /business-succession.html
+   /insights.html
+   /selling-your-business.html
+   /sell-business-stay-involved.html
+   /what-happens-after-business-sale.html
+   /business-worth.html
+5. Keep LinkedIn company name exactly: Newmara
+Recommended LinkedIn tagline:
+Acquiring, operating and growing businesses and real estate.
+Recommended first sentence of LinkedIn About:
+Newmara is a private investment firm that acquires, operates and grows established businesses and real estate.
