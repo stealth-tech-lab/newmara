@@ -1,0 +1,26 @@
+NEWMARA V5 — SEARCH + AI DISCOVERY
+
+Included:
+- Search-engine friendly static HTML
+- Unique SEO title and meta description on major pages
+- Canonical URLs
+- XML sitemap
+- robots.txt with wildcard crawl access plus explicit major search/AI crawlers
+- Organization, WebSite, and WebPage JSON-LD structured data
+- FAQ page with FAQPage structured data
+- llms.txt with a concise machine-readable summary of Newmara and key URLs
+- Internal linking between core investment pages
+- Google Analytics
+- OpenGraph metadata on core pages
+
+After upload:
+1. Confirm https://newmara.com/robots.txt loads.
+2. Confirm https://newmara.com/sitemap.xml loads.
+3. Confirm https://newmara.com/llms.txt loads.
+4. Submit sitemap.xml in Google Search Console.
+5. Add/import the site in Bing Webmaster Tools and submit the sitemap.
+6. Use Google Search Console URL Inspection for the homepage, Private Equity, Real Estate, About, Investors, FAQ.
+7. Use Bing URL Submission for the same major pages.
+8. Keep publishing substantive, factually supportable content about business succession, operating value creation, private equity, real estate, and portfolio-company operations.
+
+No technical setting can guarantee ranking or citation by a search engine or AI assistant.

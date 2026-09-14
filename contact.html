@@ -11,8 +11,8 @@
 </script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>Contact | Newmara</title>
-<meta name="description" content="Contact Newmara regarding business succession, private equity, real estate, investor relations, or strategic partnerships.">
+<title>Contact Newmara | Business Owners, Investors & Real Estate</title>
+<meta name="description" content="Contact Newmara confidentially about business succession, private equity, real estate opportunities, investor relations, or strategic partnerships.">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 <link rel="canonical" href="https://newmara.com/contact.html">
 <link rel="stylesheet" href="/style.css">
@@ -27,12 +27,42 @@
 <meta property="og:site_name" content="Newmara">
 <script type="application/ld+json">
 {
- "@context":"https://schema.org",
- "@type":"Organization",
- "name":"Newmara",
- "url":"https://newmara.com/",
- "sameAs":["https://linkedin.com/company/newmara"],
- "description":"Newmara is a private investment firm focused on operating businesses and real estate."
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://newmara.com/#organization",
+      "name": "Newmara",
+      "url": "https://newmara.com/",
+      "logo": "https://newmara.com/favicon.svg",
+      "sameAs": [
+        "https://linkedin.com/company/newmara"
+      ],
+      "description": "Newmara is a private investment firm focused on operating businesses and real estate through active ownership, operating expertise, patient capital, and long-term stewardship."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://newmara.com/#website",
+      "url": "https://newmara.com/",
+      "name": "Newmara",
+      "publisher": {
+        "@id": "https://newmara.com/#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://newmara.com/contact.html#webpage",
+      "url": "https://newmara.com/contact.html",
+      "name": "Contact Newmara | Business Owners, Investors & Real Estate",
+      "description": "Contact Newmara confidentially about business succession, private equity, real estate opportunities, investor relations, or strategic partnerships.",
+      "isPartOf": {
+        "@id": "https://newmara.com/#website"
+      },
+      "about": {
+        "@id": "https://newmara.com/#organization"
+      }
+    }
+  ]
 }
 </script>
 </head>
@@ -108,20 +138,29 @@
 </section>
 
 <footer class="footer">
-  <div class="container footer-grid">
-    <div>
-      <div class="footer-brand">NEWMARA</div>
-      <div class="footer-links">
-        <a href="/private-equity.html">Private Equity</a>
-        <a href="/real-estate.html">Real Estate</a>
-        <a href="/portfolio.html">Portfolio</a>
-        <a href="/investors.html">Investors</a>
-        <a href="/about.html">About</a>
-        <a href="/contact.html">Contact</a>
-        <a href="https://linkedin.com/company/newmara" target="_blank" rel="noopener">LinkedIn</a>
+  <div class="container institutional-footer">
+    <div class="footer-brand">NEWMARA</div>
+    <div class="footer-columns">
+      <div><strong>Our Firm</strong>
+        <a href="/about.html">About</a><a href="/history.html">History</a>
+        <a href="/citizenship.html">Citizenship</a><a href="/inclusive-culture.html">Inclusive Culture</a><a href="/faq.html">FAQ</a>
+      </div>
+      <div><strong>Investors</strong>
+        <a href="/investor-relations.html">Investor Relations</a><a href="/client-portal.html">Client Portal</a>
+      </div>
+      <div><strong>Careers</strong>
+        <a href="/careers.html">Career Opportunities</a><a href="/student-careers.html">Student Careers</a>
+      </div>
+      <div><strong>Compliance</strong>
+        <a href="/terms.html">Terms of Use</a><a href="/security-fraud.html">Security and Fraud</a>
+        <a href="/compliance.html">Compliance</a><a href="/disclosures.html">Disclosures</a>
+        <a href="/accessibility.html">Accessibility</a>
       </div>
     </div>
-    <div class="footer-right">© <span data-year></span> Newmara. All rights reserved.</div>
+    <div class="footer-bottom">
+      <span>© <span data-year></span> Newmara. All rights reserved.</span>
+      <a href="https://linkedin.com/company/newmara" target="_blank" rel="noopener">LinkedIn</a>
+    </div>
   </div>
 </footer>
 <script src="/site.js"></script>
