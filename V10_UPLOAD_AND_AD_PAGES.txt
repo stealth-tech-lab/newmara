@@ -1,0 +1,27 @@
+NEWMARA V10 — OWNER / OPERATOR POSITIONING
+
+UPLOAD
+1. Unzip this package.
+2. Open your existing Newmara GitHub repository.
+3. Upload ALL files from inside this folder, replacing existing files when prompted.
+4. Commit changes.
+5. Wait for Vercel deployment to show Ready.
+
+AD LANDING PAGES
+General business sale ads:
+https://newmara.com/sell-your-business.html
+
+Retirement / succession ads:
+https://newmara.com/business-owner-retirement.html
+
+Owner wants to stay involved / growth partner ads:
+https://newmara.com/growth-partnership.html
+
+Construction, trades, industrial, manufacturing ads:
+https://newmara.com/construction-business-acquisition.html
+
+Existing broader owner page:
+https://newmara.com/business-owners.html
+
+POSITIONING
+V10 emphasizes long term ownership, hands on operations, growth, technology and strategic M&A. It avoids fabricated AUM, transaction counts, team size, testimonials and investment returns.
