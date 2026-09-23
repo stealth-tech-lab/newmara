@@ -1,47 +1,21 @@
-# Newmara crawler policy
-# Public website content may be crawled and indexed.
-
 User-agent: *
 Allow: /
+Disallow: /client-portal.html
 
-# OpenAI / ChatGPT
 User-agent: OAI-SearchBot
 Allow: /
+Disallow: /client-portal.html
 
 User-agent: GPTBot
 Allow: /
+Disallow: /client-portal.html
 
-# Anthropic / Claude
-User-agent: ClaudeBot
-Allow: /
-
-User-agent: Claude-SearchBot
-Allow: /
-
-# Google / Gemini
 User-agent: Googlebot
 Allow: /
+Disallow: /client-portal.html
 
-User-agent: Google-Extended
+User-agent: Bingbot
 Allow: /
-
-# Microsoft / Bing / Copilot
-User-agent: bingbot
-Allow: /
-
-# Apple
-User-agent: Applebot
-Allow: /
-
-User-agent: Applebot-Extended
-Allow: /
-
-# Common Crawl and other research/search crawlers
-User-agent: CCBot
-Allow: /
-
-# Perplexity
-User-agent: PerplexityBot
-Allow: /
+Disallow: /client-portal.html
 
 Sitemap: https://newmara.com/sitemap.xml

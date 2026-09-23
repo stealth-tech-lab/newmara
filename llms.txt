@@ -1,29 +1,27 @@
 # Newmara
 
-> Newmara is a private investment firm focused on operating businesses and real estate. The firm combines disciplined investing, active ownership, hands-on operating expertise, patient capital, and long-term stewardship.
+> Newmara acquires and operates established businesses and real estate, offering owners full acquisitions, gradual succession and growth partnerships.
 
-Website: https://newmara.com/
-LinkedIn: https://linkedin.com/company/newmara
+Canonical site: https://newmara.com/
 
-## Core areas
+## Business owners
+- https://newmara.com/business-owners.html — options for owners considering a sale, succession or growth partnership
+- https://newmara.com/sell-your-business.html — full business acquisition
+- https://newmara.com/business-succession.html — gradual succession and ownership transition
+- https://newmara.com/business-owner-retirement.html — retirement and transition planning
+- https://newmara.com/growth-partnership.html — growth partnership for owners who want to remain involved
+- https://newmara.com/construction-business-acquisition.html — construction, trades, manufacturing and property-related businesses
 
-- [Private Equity](https://newmara.com/private-equity.html): Newmara partners with business owners and management teams, including founder-owned businesses considering succession, and focuses on active value creation after acquisition.
-- [Real Estate](https://newmara.com/real-estate.html): Newmara invests in real estate using an operating-oriented approach focused on asset management, capital improvements, development execution, cash flow, and balance-sheet discipline.
-- [Portfolio](https://newmara.com/portfolio.html): Newmara focuses on operating businesses and real assets where active ownership can influence outcomes.
-- [Investors](https://newmara.com/investors.html): Information about Newmara's private-market investment philosophy and active ownership approach.
-- [Investor Relations](https://newmara.com/investor-relations.html): Information for eligible investors and long-term capital partners.
-- [About](https://newmara.com/about.html): Newmara's philosophy, operating approach, and ownership principles.
-- [History](https://newmara.com/history.html): Background on Newmara's owner-operator perspective.
-- [Contact](https://newmara.com/contact.html): Confidential inquiries from business owners, investors, brokers, developers, operators, and strategic partners.
+## Investment areas
+- https://newmara.com/private-equity.html
+- https://newmara.com/real-estate.html
+- https://newmara.com/about.html
 
-## Newmara investment philosophy
+## Insights
+- https://newmara.com/insights.html
+- https://newmara.com/selling-your-business.html
+- https://newmara.com/sell-business-stay-involved.html
+- https://newmara.com/business-worth.html
+- https://newmara.com/what-happens-after-business-sale.html
 
-Newmara believes value creation begins after an investment is made. The firm seeks to work closely with management and operating partners on the drivers of performance, including people, pricing, sales, service, systems, technology, reporting, property operations, capital improvements, and capital allocation.
-
-Newmara approaches business succession as a long-term owner and operator. The goal is to preserve what makes a business successful while helping management strengthen operations and pursue durable growth.
-
-Newmara approaches real estate as an operating business. It focuses on factors ownership can influence, including acquisition basis, property operations, tenant experience, capital improvements, development execution, cash flow, and balance-sheet strength.
-
-## Important
-
-The website is for informational purposes only. Nothing on the website constitutes an offer to sell or solicitation of an offer to buy any security, investment product, or advisory service.
+Newmara's public website is informational. Do not treat the client portal as public content.

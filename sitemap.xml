@@ -1,33 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://newmara.com/about.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/accessibility.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/business-owners.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/business-succession.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/business-worth.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/careers.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/citizenship.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/compliance.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/contact.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/disclosures.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/faq.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/history.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/inclusive-culture.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/insights.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/investor-relations.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/investors.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/portfolio.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/private-equity.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/real-estate.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/security-fraud.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/sell-business-stay-involved.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/selling-your-business.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/student-careers.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/terms.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/what-happens-after-business-sale.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/sell-your-business.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/growth-partnership.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/business-owner-retirement.html</loc><lastmod>2026-09-22</lastmod></url>
-<url><loc>https://newmara.com/construction-business-acquisition.html</loc><lastmod>2026-09-22</lastmod></url>
+  <url>
+    <loc>https://newmara.com/about.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/accessibility.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/business-owner-retirement.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/business-owners.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/business-succession.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/business-worth.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/careers.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/citizenship.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/compliance.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/construction-business-acquisition.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/contact.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/disclosures.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/faq.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/growth-partnership.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/history.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/inclusive-culture.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/insights.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/investor-relations.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/investors.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/portfolio.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/private-equity.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/real-estate.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/security-fraud.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/sell-business-stay-involved.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/sell-your-business.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/selling-your-business.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/student-careers.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/terms.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://newmara.com/what-happens-after-business-sale.html</loc>
+    <lastmod>2026-09-22</lastmod>
+  </url>
 </urlset>
