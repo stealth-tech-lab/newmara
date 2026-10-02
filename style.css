@@ -396,17 +396,11 @@ h3{font-weight:500;letter-spacing:-.025em}
 @media(max-width:850px){.ad-form-grid{grid-template-columns:1fr;gap:32px}.ad-form{padding:22px}}
 
 
-/* V11.1 simplified acquisition navigation */
-.nav-item{position:relative;display:flex;align-items:center}
-.nav-item>a{display:flex;align-items:center;gap:6px}
-.nav-caret{font-size:9px;opacity:.65;margin-top:1px}
-.nav-dropdown{display:none;position:absolute;top:72px;left:-20px;min-width:310px;background:#fff;border:1px solid var(--line);box-shadow:0 18px 45px rgba(0,0,0,.10);padding:10px 0;z-index:100}
-.nav-item:hover .nav-dropdown,.nav-item:focus-within .nav-dropdown{display:block}
-.nav-dropdown a{display:block!important;padding:13px 20px!important;border:0!important;letter-spacing:0;color:#35322e!important}
-.nav-dropdown a:hover{background:#f7f4ef;color:#111!important}
-.nav-dropdown strong{display:block;font-size:13px;font-weight:600;margin-bottom:2px}
-.nav-dropdown span{display:block;font-size:11px;line-height:1.4;color:#777;letter-spacing:0}
-.nav-cta{background:#111!important;color:#fff!important;padding:12px 17px!important;border:1px solid #111!important;font-weight:700!important}
-.nav-cta:hover{background:#2a2927!important;color:#fff!important;border-color:#2a2927!important}
-.mobile-menu .mobile-label{display:block;padding:16px 0 7px;font-size:10px;letter-spacing:.18em;text-transform:uppercase;color:#9a7a4d;border-bottom:0}
-.mobile-menu .sub-link{padding-left:16px}
+
+/* V11.4 flat navigation: all primary choices are always visible on desktop */
+@media(min-width:961px){
+  .nav-links{gap:22px;font-size:12px;white-space:nowrap}
+  .nav-links>a{padding:31px 0 28px}
+  .nav-cta{background:#111!important;color:#fff!important;padding:12px 16px!important;border:1px solid #111!important;font-weight:700!important}
+  .nav-cta:hover,.nav-cta.active{background:#2a2927!important;color:#fff!important;border-color:#2a2927!important}
+}
